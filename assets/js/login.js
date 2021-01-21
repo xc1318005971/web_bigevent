@@ -20,6 +20,7 @@ $(function() {
             }
         }
     })
+
     $('#form_reg').on('submit', function(e) {
         e.preventDefault();
         $.ajax({

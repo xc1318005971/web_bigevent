@@ -12,6 +12,7 @@ $(function() {
     })
 })
 
+
 function getUserInfo() {
     $.ajax({
         method: 'GET',
